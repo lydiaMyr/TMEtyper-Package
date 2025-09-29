@@ -1,5 +1,7 @@
 # TMEtyper
 TMEtyper is an advanced method for tumor microenvironment (TME) subtyping, powered by artificial intelligence
+[TOC-01.tif](https://github.com/user-attachments/files/22598077/TOC-01.tif)
+
 ## Installation
 ``` bash
 install.packages("devtools")

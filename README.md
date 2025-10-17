@@ -13,7 +13,9 @@ install_github("lydiaMyr/TMEtyper-Package/TMEtyper@main")
 ## Geting started
 ### For rnaseq data
 file_path <- system.file("extdata", "example_data.txt", package = "TMEtyper")
+
 TMEtyper(file_path,"rnaseq")
 ### For microarray data
 file_path <- system.file("extdata", "example_data.txt", package = "TMEtyper")
+
 TMEtyper(file_path,"microarray")

@@ -8,8 +8,10 @@ TMEtyper is an advanced method for tumor microenvironment (TME) subtyping, power
 install.packages("devtools")
 library(devtools)
 install_github("lydiaMyr/TMEtyper-Package@main")
-#If the above methods fail to install, please click on the "Code" button in the upper right corner → "Download ZIP" to download the file to your local machine, and then install it using install_local("TMEtyper-Package-main.zip").
 ```
+## If the above methods fail to install, please click on the "Code" button in the upper right corner → "Download ZIP" to download the file to your local machine, 
+## and then install it using install_local("TMEtyper-Package-main.zip").
+
 ## Geting started
 library(GSVA)
 

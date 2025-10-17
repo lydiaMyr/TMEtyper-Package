@@ -7,7 +7,7 @@ TMEtyper is an advanced method for tumor microenvironment (TME) subtyping, power
 ``` bash
 install.packages("devtools")
 library(devtools)
-install_github("lydiaMyr/TMEtyper-Package/TMEtyper@main")
+install_github("lydiaMyr/TMEtyper-Package@main")
 #if the "/bin/gtar: not found" error occured, please run the following command "export TAR="/bin/tar" before installation.
 ```
 ## Geting started

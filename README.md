@@ -11,6 +11,10 @@ install_github("lydiaMyr/TMEtyper-Package/TMEtyper@main")
 #if the "/bin/gtar: not found" error occured, please run the following command "export TAR="/bin/tar" before installation.
 ```
 ## Geting started
+library(GSVA)
+library(nnet)  
+library(caret)   
+
 ### For rnaseq data
 file_path <- system.file("extdata", "example_data.txt", package = "TMEtyper")
 
